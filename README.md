@@ -8,4 +8,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot Solution
 
-![](./images/Screenshot 2023-02-22 at 17.03.15.png)
+![Solution preview for the QR code component coding challenge](./images/Screenshot.png)
